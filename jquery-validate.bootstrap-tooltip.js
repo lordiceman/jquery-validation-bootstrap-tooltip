@@ -7,6 +7,9 @@
  * Released under the MIT license:
  *   http://www.opensource.org/licenses/mit-license.php
  */
+ /*
+ licence test
+ */
 (function($) {
 	$.extend(true,$.validator, {
 		prototype:{
